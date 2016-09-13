@@ -12,5 +12,5 @@ A very simple pixiv spider which can download illustrations and manga by monthly
 * Cookielib
 * And other libs
 
-###Have a look
+###Have A Look
 ![](readmeImg/01.jpg)

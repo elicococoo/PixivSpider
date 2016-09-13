@@ -3,7 +3,7 @@ A very simple pixiv spider which can download illustrations and manga by monthly
 ###Features
 * Use multithreading to boost downloading speed.
 * No necessary to run a web browser.
-* A very simple html album to look your girls.
+* A very simple html album to see your girls.
 * And simple...
 
 ###What You Need
